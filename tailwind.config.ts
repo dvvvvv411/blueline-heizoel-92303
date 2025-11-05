@@ -26,7 +26,7 @@ export default {
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				primary: {
-					DEFAULT: '#dc2626',
+					DEFAULT: '#059669',
 					foreground: '#ffffff'
 				},
 				secondary: {
@@ -42,7 +42,7 @@ export default {
 					foreground: '#6c757d'
 				},
 				accent: {
-					DEFAULT: '#dc2626',
+					DEFAULT: '#059669',
 					foreground: '#ffffff'
 				},
 				popover: {

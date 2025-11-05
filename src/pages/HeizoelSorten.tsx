@@ -10,10 +10,10 @@ const HeizoelSorten = () => {
   return (
     <div className="min-h-screen">
       <SEO
-        title="Heizöl-Sorten | Standard & Premium Heizöl | Kölner Kraftstoff"
+        title="Heizöl-Sorten | Standard & Premium Heizöl | Treffer Heizöl"
         description="Hochwertige Heizöl-Sorten: Standard Heizöl EL ab 70 Cent/L und Premium Heizöl Plus ab 73 Cent/L. Schwefelarm, DIN-Norm konform. Jetzt bestellen!"
-        keywords="Heizöl Sorten, Standard Heizöl EL, Premium Heizöl Plus, schwefelarmes Heizöl, DIN 51603-1, Köln"
-        canonicalUrl="https://koelner-kraftstoff.de/heizoelsorten"
+        keywords="Heizöl Sorten, Standard Heizöl EL, Premium Heizöl Plus, schwefelarmes Heizöl, DIN 51603-1, Bayern, Buchdorf"
+        canonicalUrl="https://treffer-heizoel.de/heizoelsorten"
       />
       <Header />
       

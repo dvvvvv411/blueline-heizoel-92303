@@ -1,44 +1,44 @@
 export const companyInfo = {
   // Brand Information
-  brandName: "Kölner Kraftstoff",
-  legalName: "Kölner Kraftstoff GmbH & Co. KG",
+  brandName: "Treffer Heizöl",
+  legalName: "Treffer GmbH",
   
   // Address
-  street: "Dieselstr. 10",
-  postalCode: "50996",
-  city: "Köln",
+  street: "Anton-Jaumann-Str. 1",
+  postalCode: "86675",
+  city: "Buchdorf",
   country: "DE",
   
   // Contact Information
-  email: "info@koelner-kraftstoff.de",
+  email: "info@treffer-heizoel.de",
   phoneDisplay: "0221 29291090",
   phoneIntl: "+49 221 29291090",
   phoneTel: "+4922129291090",
   
   // Legal Information
-  court: "Amtsgericht Köln",
-  hrb: "HRA 27679",
-  vatId: "DE302487506",
-  ceo: "David Sommerhäuser",
+  court: "Amtsgericht Augsburg",
+  hrb: "HRB 322",
+  vatId: "DE427997071",
+  ceo: "",
   
   // Business Information
   foundingYear: "2010",
   yearsOfExperience: "15+",
   
   // Assets
-  logo: "/lovable-uploads/koelner-kraftstoff-logo.png",
+  logo: "/lovable-uploads/treffer-logo.png",
   
-  // Geographic Coordinates (Köln, near Dieselstr. 10)
+  // Geographic Coordinates (Buchdorf, near Anton-Jaumann-Str. 1)
   geo: {
-    lat: 50.889,
-    lng: 6.943
+    lat: 48.6734,
+    lng: 10.8652
   },
   
   // Website
-  website: "https://koelner-kraftstoff.de",
+  website: "https://treffer-heizoel.de",
   
   // Full address string
-  fullAddress: "Dieselstr. 10, 50996 Köln",
+  fullAddress: "Anton-Jaumann-Str. 1, 86675 Buchdorf",
   
   // Company description
   shortDescription: "Ihr vertrauensvoller Partner für hochwertiges Heizöl. Deutschlandweite Premium-Lieferung ab 70 Cent pro Liter.",

@@ -2,22 +2,22 @@
 export const companyStructuredData = {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "Kölner Kraftstoff",
-  "alternateName": "Kölner Kraftstoff GmbH & Co. KG",
-  "url": "https://koelner-kraftstoff.de",
-  "logo": "/lovable-uploads/koelner-kraftstoff-logo.png",
+  "name": "Treffer Heizöl",
+  "alternateName": "Treffer GmbH",
+  "url": "https://treffer-heizoel.de",
+  "logo": "/lovable-uploads/treffer-logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
     "telephone": "+49-221-29291090",
     "contactType": "customer service",
-    "email": "info@koelner-kraftstoff.de",
+    "email": "info@treffer-heizoel.de",
     "availableLanguage": "German"
   },
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Dieselstr. 10",
-    "addressLocality": "Köln",
-    "postalCode": "50996",
+    "streetAddress": "Anton-Jaumann-Str. 1",
+    "addressLocality": "Buchdorf",
+    "postalCode": "86675",
     "addressCountry": "DE"
   },
   "foundingDate": "2010",
@@ -43,22 +43,22 @@ export const companyStructuredData = {
 export const localBusinessStructuredData = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Kölner Kraftstoff",
-  "image": "/lovable-uploads/koelner-kraftstoff-logo.png",
-  "@id": "https://koelner-kraftstoff.de",
-  "url": "https://koelner-kraftstoff.de",
+  "name": "Treffer Heizöl",
+  "image": "/lovable-uploads/treffer-logo.png",
+  "@id": "https://treffer-heizoel.de",
+  "url": "https://treffer-heizoel.de",
   "telephone": "+49-221-29291090",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Dieselstr. 10",
-    "addressLocality": "Köln",
-    "postalCode": "50996",
+    "streetAddress": "Anton-Jaumann-Str. 1",
+    "addressLocality": "Buchdorf",
+    "postalCode": "86675",
     "addressCountry": "DE"
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": 50.889,
-    "longitude": 6.943
+    "latitude": 48.6734,
+    "longitude": 10.8652
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",

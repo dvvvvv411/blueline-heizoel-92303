@@ -35,8 +35,8 @@ const CompanySection = () => {
       title: "Unser Standort",
       content: (
         <>
-          Dieselstr. 10<br />
-          50996 Köln<br />
+          Anton-Jaumann-Str. 1<br />
+          86675 Buchdorf<br />
           Deutschland
         </>
       ),
@@ -47,10 +47,10 @@ const CompanySection = () => {
       title: "E-Mail Kontakt",
       content: (
         <a 
-          href="mailto:info@koelner-kraftstoff.de" 
+          href="mailto:info@treffer-heizoel.de" 
           className="text-primary hover:text-primary/80 transition-colors font-medium hover:underline"
         >
-          info@koelner-kraftstoff.de
+          info@treffer-heizoel.de
         </a>
       ),
       color: "from-emerald-500 to-green-600"
@@ -82,23 +82,23 @@ const CompanySection = () => {
             </div>
             
             <h2 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-8">
-              Über <span className="gradient-text">Kölner Kraftstoff</span>
+              Über <span className="gradient-text">Treffer Heizöl</span>
             </h2>
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed mb-12">
               <p>
-                Kölner Kraftstoff – Ihr verlässlicher Partner aus Köln für Premium-Heizöl in ganz Deutschland. 
-                Von unserem Standort in Köln aus beliefern wir Privat- und Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
+                Treffer Heizöl – Ihr verlässlicher Partner aus Bayern für Premium-Heizöl in ganz Deutschland. 
+                Von unserem Standort in Bayern aus beliefern wir Privat- und Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
               </p>
               
               <p>
                 Durch direkte Raffineriekooperationen und optimierte Logistik bieten wir Ihnen 
-                <span className="font-semibold text-primary"> Premium Heizöl ab 70 Cent pro Liter</span> – von Köln nach ganz Deutschland geliefert.
+                <span className="font-semibold text-primary"> Premium Heizöl ab 70 Cent pro Liter</span> – von Bayern nach ganz Deutschland geliefert.
               </p>
               
               <p>
                 Unser Versprechen: Transparente Preise, verlässlicher Premium-Service und kostenlose Lieferung ab 2.000 Litern deutschlandweit. 
-                <span className="font-semibold text-gray-900">Über 100.000 zufriedene Kunden in ganz Deutschland</span> vertrauen auf Kölner Kraftstoff.
+                <span className="font-semibold text-gray-900">Über 100.000 zufriedene Kunden in ganz Deutschland</span> vertrauen auf Treffer Heizöl.
               </p>
             </div>
 
@@ -161,13 +161,13 @@ const CompanySection = () => {
               <h4 className="text-xl font-bold text-gray-900 mb-6 text-center">Rechtliche Angaben</h4>
               <div className="space-y-3 text-center">
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="font-semibold text-gray-900">Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</p>
+                  <p className="font-semibold text-gray-900">Treffer Heizöl (Treffer GmbH)</p>
                 </div>
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="text-gray-700">Amtsgericht Köln HRA 27679</p>
+                  <p className="text-gray-700">Amtsgericht Augsburg HRB 322</p>
                 </div>
                 <div className="p-4 bg-white/50 rounded-2xl">
-                  <p className="text-gray-700">USt-ID: DE302487506</p>
+                  <p className="text-gray-700">USt-ID: DE427997071</p>
                 </div>
               </div>
             </div>

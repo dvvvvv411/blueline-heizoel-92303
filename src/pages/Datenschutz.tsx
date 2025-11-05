@@ -27,10 +27,10 @@ const Datenschutz = () => {
                 <h3 className="text-lg font-semibold mb-2 mt-4">Verantwortliche Stelle</h3>
                 <div className="space-y-2">
                   <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
-                  <p><strong>Kölner Kraftstoff GmbH & Co. KG</strong></p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
-                  <p>E-Mail: info@koelner-kraftstoff.de</p>
+                  <p><strong>Treffer GmbH</strong></p>
+                  <p>Anton-Jaumann-Str. 1</p>
+                  <p>86675 Buchdorf</p>
+                  <p>E-Mail: info@treffer-heizoel.de</p>
                 </div>
               </section>
 

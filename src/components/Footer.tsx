@@ -38,7 +38,7 @@ const Footer = () => {
                   <div className="w-8 h-8 bg-white/20 rounded-lg flex items-center justify-center mt-1 group-hover:bg-white/30 transition-colors duration-300">
                     <MapPin className="w-4 h-4 text-white" />
                   </div>
-                  <span className="text-gray-200 text-sm">Dieselstr. 10, 50996 Köln</span>
+                  <span className="text-gray-200 text-sm">Anton-Jaumann-Str. 1, 86675 Buchdorf</span>
                 </div>
                 
                 <div className="group flex items-center space-x-3">
@@ -58,10 +58,10 @@ const Footer = () => {
                     <Mail className="w-4 h-4 text-white" />
                   </div>
                   <a 
-                    href="mailto:info@koelner-kraftstoff.de" 
+                    href="mailto:info@treffer-heizoel.de" 
                     className="text-gray-200 text-sm hover:text-white transition-colors duration-300"
                   >
-                    info@koelner-kraftstoff.de
+                    info@treffer-heizoel.de
                   </a>
                 </div>
               </div>
@@ -166,8 +166,8 @@ const Footer = () => {
           <div className="container mx-auto px-4 py-8">
             <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4 md:gap-6">
               <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6 text-white/90 text-sm">
-                <span className="text-center sm:text-left">© 2025 Kölner Kraftstoff. Alle Rechte vorbehalten.</span>
-                <span className="text-center sm:text-left">Amtsgericht Köln HRA 27679 | USt-ID: DE302487506</span>
+                <span className="text-center sm:text-left">© 2025 Treffer Heizöl. Alle Rechte vorbehalten.</span>
+                <span className="text-center sm:text-left">Amtsgericht Augsburg HRB 322 | USt-ID: DE427997071</span>
               </div>
               <div className="text-sm text-white/90 bg-white/15 px-4 py-2 rounded-full border border-white/30 text-center md:whitespace-nowrap mx-auto md:mx-0">
                 Made with ❤️ in Germany

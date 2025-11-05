@@ -5,11 +5,11 @@ import SEO from '../components/SEO';
 const Impressum = () => {
   return (
     <div className="min-h-screen bg-gray-50">
-        <SEO
-        title="Impressum | Kölner Kraftstoff | Rechtliche Angaben"
-        description="Impressum der Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht Köln HRA 27679."
-        keywords="Impressum, Kölner Kraftstoff, Köln, HRA 27679, rechtliche Angaben"
-        canonicalUrl="https://koelner-kraftstoff.de/impressum"
+      <SEO
+        title="Impressum | Treffer Heizöl | Rechtliche Angaben"
+        description="Impressum der Treffer Heizöl (Treffer GmbH) - Alle rechtlichen Angaben, Kontaktdaten und Registereintrag. Amtsgericht Augsburg HRB 322."
+        keywords="Impressum, Treffer Heizöl, Buchdorf, HRB 322, rechtliche Angaben"
+        canonicalUrl="https://treffer-heizoel.de/impressum"
       />
       <Header />
       
@@ -22,9 +22,9 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Angaben gemäß § 5 TMG</h2>
                 <div className="space-y-2">
-                  <p><strong>Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</strong></p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
+                  <p><strong>Treffer Heizöl (Treffer GmbH)</strong></p>
+                  <p>Anton-Jaumann-Str. 1</p>
+                  <p>86675 Buchdorf</p>
                   <p>Deutschland</p>
                 </div>
               </section>
@@ -33,7 +33,7 @@ const Impressum = () => {
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
                 <div className="space-y-2">
                   <p><strong>Telefon:</strong> 0221 29291090</p>
-                  <p><strong>E-Mail:</strong> info@koelner-kraftstoff.de</p>
+                  <p><strong>E-Mail:</strong> info@treffer-heizoel.de</p>
                 </div>
               </section>
 
@@ -41,23 +41,23 @@ const Impressum = () => {
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Registereintrag</h2>
                 <div className="space-y-2">
                   <p><strong>Eintragung im Handelsregister:</strong></p>
-                  <p>Registergericht: Amtsgericht Köln</p>
-                  <p>Registernummer: HRA 27679</p>
+                  <p>Registergericht: Amtsgericht Augsburg</p>
+                  <p>Registernummer: HRB 322</p>
                 </div>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Umsatzsteuer-ID</h2>
                 <p>Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:</p>
-                <p><strong>DE302487506</strong></p>
+                <p><strong>DE427997071</strong></p>
               </section>
 
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h2>
                 <div className="space-y-2">
-                  <p>Kölner Kraftstoff (Kölner Kraftstoff GmbH & Co. KG)</p>
-                  <p>Dieselstr. 10</p>
-                  <p>50996 Köln</p>
+                  <p>Treffer Heizöl (Treffer GmbH)</p>
+                  <p>Anton-Jaumann-Str. 1</p>
+                  <p>86675 Buchdorf</p>
                 </div>
               </section>
 

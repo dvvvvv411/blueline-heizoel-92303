@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import PriceCalculator from './PriceCalculator';
-import { Star, Truck } from 'lucide-react';
+import { Star, Truck, Award } from 'lucide-react';
 
 const HeroSection = () => {
   // Handle hash-based navigation to price calculator
@@ -72,14 +72,20 @@ const HeroSection = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left Column - Content */}
           <div className="space-y-10 animate-fade-in">
-            {/* Trust Badge */}
-            <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
-              <div className="flex">
-                {[...Array(5)].map((_, i) => (
-                  <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                ))}
+            {/* Trust Badges */}
+            <div className="flex flex-wrap gap-3">
+              <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
+                <Award className="w-4 h-4 text-emerald-600" />
+                <span className="text-sm font-medium text-gray-700">Seit 1975 – 50 Jahre Expertise</span>
               </div>
-              <span className="text-sm font-medium text-gray-700">100.000+ zufriedene Kunden</span>
+              <div className="inline-flex items-center gap-2 bg-white/80 backdrop-blur-sm border border-gray-200 rounded-full px-4 py-2 shadow-sm">
+                <div className="flex">
+                  {[...Array(5)].map((_, i) => (
+                    <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
+                  ))}
+                </div>
+                <span className="text-sm font-medium text-gray-700">100.000+ zufriedene Kunden</span>
+              </div>
             </div>
 
             {/* Main Headlines */}
@@ -139,8 +145,9 @@ const HeroSection = () => {
             {/* CTA Section */}
             <div className="space-y-4">
               <p className="text-xl text-gray-700 leading-relaxed">
-                Als führender Heizöl-Händler aus Bayern liefern wir Premium-Qualität zu 
-                <span className="font-semibold text-emerald-600"> bis zu 30% günstigeren Preisen</span> als lokale Anbieter – deutschlandweit.
+                Seit 1975 liefern wir als traditionsreicher Heizöl-Händler aus Bayern Premium-Qualität 
+                zu<span className="font-semibold text-emerald-600"> bis zu 30% günstigeren Preisen</span> als lokale Anbieter – deutschlandweit. 
+                50 Jahre Erfahrung garantieren höchste Qualität und Zuverlässigkeit.
               </p>
               <div className="flex items-center gap-2 text-sm text-gray-600">
                 <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>

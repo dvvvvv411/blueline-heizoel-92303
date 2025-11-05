@@ -87,8 +87,9 @@ const CompanySection = () => {
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed mb-12">
               <p>
-                Treffer Heizöl – Ihr verlässlicher Partner aus Bayern für Premium-Heizöl in ganz Deutschland. 
-                Von unserem Standort in Bayern aus beliefern wir Privat- und Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
+                Seit 1975 Ihr verlässlicher Partner für Premium-Heizöl aus Bayern. 
+                Mit über 50 Jahren Erfahrung und Expertise beliefern wir Privat- und 
+                Geschäftskunden bundesweit mit erstklassigem Heizöl zu unschlagbaren Konditionen.
               </p>
               
               <p>
@@ -97,8 +98,10 @@ const CompanySection = () => {
               </p>
               
               <p>
-                Unser Versprechen: Transparente Preise, verlässlicher Premium-Service und kostenlose Lieferung ab 2.000 Litern deutschlandweit. 
-                <span className="font-semibold text-gray-900">Über 100.000 zufriedene Kunden in ganz Deutschland</span> vertrauen auf Treffer Heizöl.
+                Unser Versprechen seit 1975: Transparente Preise, bewährter Premium-Service 
+                und kostenlose Lieferung ab 2.000 Litern deutschlandweit. 
+                50 Jahre Erfahrung, über 100.000 zufriedene Kunden in ganz Deutschland – 
+                das ist die Treffer Heizöl Garantie.
               </p>
             </div>
 

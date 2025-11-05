@@ -48,7 +48,7 @@ const USPSection = () => {
             Warum <span className="gradient-text">Treffer Heizöl</span>?
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Treffer Heizöl – Premium Heizöl aus Bayern für ganz Deutschland. Entdecken Sie unsere überzeugenden Vorteile und verlässlichen Service.
+            Seit 1975 – Ihr Partner für Premium Heizöl aus Bayern. 50 Jahre Erfahrung, auf die Sie sich verlassen können.
           </p>
         </div>
 

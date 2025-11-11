@@ -11,8 +11,19 @@ export default defineConfig(({ mode }) => ({
     strictPort: true,
     hmr: {
       clientPort: 443,
-      host: 'koelner-kraftstoff.de',
+      host: 'treffer-heizoel.de',
     },
+  },
+  preview: {
+    host: "::",
+    port: 8080,
+    strictPort: true,
+    allowedHosts: [
+      'treffer-heizoel.de',
+      'www.treffer-heizoel.de',
+      'localhost',
+      '127.0.0.1'
+    ]
   },
   plugins: [
     react(),

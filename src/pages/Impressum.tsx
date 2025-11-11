@@ -32,7 +32,7 @@ const Impressum = () => {
               <section>
                 <h2 className="text-2xl font-semibold text-gray-900 mb-4">Kontakt</h2>
                 <div className="space-y-2">
-                  <p><strong>Telefon:</strong> 0221 29291090</p>
+                  <p><strong>Telefon:</strong> 09099 3939690</p>
                   <p><strong>E-Mail:</strong> info@treffer-heizoel.de</p>
                 </div>
               </section>

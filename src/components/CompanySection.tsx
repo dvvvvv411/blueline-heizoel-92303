@@ -1,5 +1,5 @@
 
-import { MapPin, Mail, Clock, Building2, Award, Shield, CheckCircle } from 'lucide-react';
+import { MapPin, Mail, Clock, Building2, Award, Shield, CheckCircle, Phone } from 'lucide-react';
 
 const CompanySection = () => {
   const qualityFeatures = [
@@ -54,6 +54,19 @@ const CompanySection = () => {
         </a>
       ),
       color: "from-emerald-500 to-green-600"
+    },
+    {
+      icon: Phone,
+      title: "Telefon",
+      content: (
+        <a 
+          href="tel:+4990993939690" 
+          className="text-primary hover:text-primary/80 transition-colors font-medium hover:underline"
+        >
+          09099 3939690
+        </a>
+      ),
+      color: "from-blue-500 to-indigo-600"
     },
     {
       icon: Clock,

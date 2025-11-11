@@ -300,7 +300,7 @@ const UeberUns = () => {
                   <div className="p-4 bg-white/60 rounded-xl border border-white/40">
                     <p className="text-gray-700">
                       <strong className="text-primary">E-Mail:</strong> info@treffer-heizoel.de<br/>
-                      <strong className="text-primary">Telefon:</strong> 0221 29291090
+                      <strong className="text-primary">Telefon:</strong> 09099 3939690
                     </p>
                   </div>
                 </div>

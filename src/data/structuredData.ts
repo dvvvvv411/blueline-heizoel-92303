@@ -8,7 +8,7 @@ export const companyStructuredData = {
   "logo": "/lovable-uploads/treffer-logo.png",
   "contactPoint": {
     "@type": "ContactPoint",
-    "telephone": "+49-221-29291090",
+    "telephone": "+49-9099-3939690",
     "contactType": "customer service",
     "email": "info@treffer-heizoel.de",
     "availableLanguage": "German"
@@ -47,7 +47,7 @@ export const localBusinessStructuredData = {
   "image": "/lovable-uploads/treffer-logo.png",
   "@id": "https://treffer-heizoel.de",
   "url": "https://treffer-heizoel.de",
-  "telephone": "+49-221-29291090",
+  "telephone": "+49-9099-3939690",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Anton-Jaumann-Str. 1",

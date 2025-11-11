@@ -11,9 +11,9 @@ export const companyInfo = {
   
   // Contact Information
   email: "info@treffer-heizoel.de",
-  phoneDisplay: "0221 29291090",
-  phoneIntl: "+49 221 29291090",
-  phoneTel: "+4922129291090",
+  phoneDisplay: "09099 3939690",
+  phoneIntl: "+49 9099 3939690",
+  phoneTel: "+4990993939690",
   
   // Legal Information
   court: "Amtsgericht Augsburg",
